@@ -1,7 +1,7 @@
 The contents of this project are the following: 
 
  
-  1: A README file which specifies the items of each scale/measure used in the original study of An et al.(2016) 
+  1: A README file (README_measures.pdf) which specifies the items of each scale/measure used in the original study of An et al.(2016) 
 
 
   2: Two CSV files, one of which is filtered (sun_study_gefilterd.csv) and one of contains the complete raw dataset (sun_study.csv). Note, the filtered file was used to conduct the reanalysis
