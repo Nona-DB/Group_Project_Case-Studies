@@ -13,4 +13,4 @@ The contents of this project are the following:
 
   Kind regards, 
   
-  Femke, Geike, Kaat and Nona :) 
+  Femke, Geike, Kaat and Nona 
